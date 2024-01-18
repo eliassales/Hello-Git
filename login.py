@@ -1,1 +1,1 @@
-print("Login! v2 se agrega nuevo texto")
+print("Login! v2")
