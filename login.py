@@ -1,3 +1,3 @@
-'''System module.'''
+'''Archivo de login.'''
 
 print("Login! v2")
