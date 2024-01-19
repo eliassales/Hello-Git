@@ -1,3 +1,3 @@
 '''Archivo de hellogit.'''
 
-print("Hola mundo! Esto es git")
+print("Hello Git! v2.0")
