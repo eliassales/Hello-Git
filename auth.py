@@ -1,3 +1,3 @@
-'''Autorizacion'''
+'''Autenticación'''
 
 print('Auth!')
